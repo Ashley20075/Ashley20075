@@ -13,7 +13,7 @@ Estudiante de **Análisis y Desarrollo de Software** con formación técnica pre
 - 🔭 Actualmente trabajando en proyectos de gestión con **Python y Django**
 - 🌱 Aprendiendo y practicando bases de datos relacionales (**SQLite / MySQL**)
 - 💬 Puedes preguntarme sobre HTML, CSS, JavaScript, Bootstrap o Django
-- 📫 Contáctame por: **[Agregar correo]** | **[Agregar LinkedIn]**
+- 📫 Contáctame por: **nicoolperdomo300@gmail.com**
 
 ---
 
